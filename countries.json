@@ -1,0 +1,22 @@
+{
+  "countries": [
+    "Australia",
+    "Austria",
+    "Belgium"
+  ],
+
+
+  "states": {
+    "Australia": [
+      "South Australia",
+      "New South Wales",
+      "Victoria",
+      "Western Australia",
+      "Queensland",
+      "Tasmania",
+      "Northern Territory",
+      "Tasmania",
+      "Western Australia"
+    ]
+  }
+}
